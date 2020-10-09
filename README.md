@@ -1,6 +1,7 @@
 # project-name-front
 
 > the front end of project
+> 教程博客：https://blog.csdn.net/hzhxxxx/article/details/108964944
 
 ## Build Setup
 
